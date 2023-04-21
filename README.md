@@ -21,7 +21,7 @@ unsatisfied customer
 training set can reveal latent features
 which contribute to the Target column.
 
-#Model Used: 
+# Model Used: 
 
 1 Build a machine learning algorithm using the
 training data set and predict the total satisfied and
@@ -32,3 +32,16 @@ Regression as a base model.
 
 3.Here “Random Forrest” and “XG Boost” is used to
 build a machine learning model.
+
+# Conclusion:
+Accuracy score is not the best score to
+evaluate the performance of a
+model.
+For imbalanced dataset ROC-AUC
+score and F1 score are better metrics
+to evaluate the model.
+From these metrics, it shows that
+XGBoost Classifier is the best model
+followed by Random Forest and
+Logistic Regression trained on the
+Santander Dataset.
