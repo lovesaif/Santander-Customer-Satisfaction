@@ -2,9 +2,10 @@
 Short Summary: In this project, there are hundreds of anonymized features to predict if a customer is satisfied or dissatisfied with their banking experience. So, here build a base model with Logistic Regression and further used Random Forest Classifier and XGBoost Classifier to predict the probability of each customer in the test set being unsatisfied.
 
 
-# Dataset and Key Features: Here we used "Santander Customer Satisfaction" dataset easily available on Kagle.
-Here the dataset has anonymous
-1. column with numeric data
+# Dataset and Key Features: 
+Here we used "Santander Customer Satisfaction" dataset easily available on Kagle.
+1. Here the dataset has anonymous
+column with numeric data
 2. Data set contains many unnamed
 columns
 3. Unnamed columns make feature
